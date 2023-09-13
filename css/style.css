@@ -1,0 +1,23 @@
+
+.body {
+font-style: italic;
+}
+
+h1, h2, h3 {
+background-color: yellow;
+}
+
+.quote {
+color: orange;
+}
+
+.quote.narrator {
+outline-style: dotted;
+outline-color:aquamarine
+}
+
+#intro p {
+color: blue;
+transform: perspective();
+
+}
